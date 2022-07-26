@@ -9,7 +9,9 @@ Authors: Thomas Frederikse [1], Tong Lee [1], Ou Wang [1], Ben Kirtman [2], Emil
 
 Please cite 'A hybrid dynamical approach for seasonal prediction of sea-level anomalies: a pilot study for Charleston, South Carolina' when using these scripts.
 
-Next to these scripts, a data supplement with the adjoint sensitivities, the predictions, and statistics is available on Zenodo: 
+Next to these scripts, a data supplement with the adjoint sensitivities, the predictions, and statistics is available on [Zenodo](https://doi.org/10.5281/zenodo.6909128) with DOI `10.5281/zenodo.6909128`
+
+
 
 This supplement contains the following directories:
 
